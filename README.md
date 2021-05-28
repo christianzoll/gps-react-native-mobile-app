@@ -1,2 +1,3 @@
-# gps-react-native-mobile-app
+# react-native-gps-api-mobile
+
 Track a Truck
